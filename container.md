@@ -6,3 +6,4 @@
 - https://training.play-with-docker.com/alacart/ (full list)
 - https://training.play-with-docker.com/ (guided tour)
 - https://labs.play-with-docker.com/ (standalone environment)
+- https://dockerlabs.collabnix.com/
